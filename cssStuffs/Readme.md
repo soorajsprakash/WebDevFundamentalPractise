@@ -17,3 +17,8 @@
 15. CSS Working with images and box shadows
 16. CSS Working with text and image spacing
 17. CSS Building the footer
+
+
+P.S: Also added the image files to make the website fully working.
+
+P.S.2: Check out the mobile responsiveness by shrinking the browser under 600px.
