@@ -19,6 +19,12 @@
 17. CSS Building the footer
 
 
-P.S: Also added the image files to make the website fully working.
+### Chapter:- 3,4,5
+  * Introduction to CSS
+  * Intermediate CSS
+  * Advanced CSS Building and styling website
+  
 
-P.S.2: Check out the mobile responsiveness by shrinking the browser under 600px.
+###  P.S: Also added the image files to make the website fully working.
+
+###  P.S.2: Check out the mobile responsiveness by shrinking the browser under 600px.
